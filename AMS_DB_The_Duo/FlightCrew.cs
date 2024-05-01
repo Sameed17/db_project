@@ -16,5 +16,10 @@ namespace AMS_DB_The_Duo
         {
             InitializeComponent();
         }
+
+        private void label5_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

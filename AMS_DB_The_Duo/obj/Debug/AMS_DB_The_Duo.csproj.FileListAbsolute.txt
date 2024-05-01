@@ -27,3 +27,22 @@ C:\Users\samee\Downloads\cat\AMS_DB_The_Duo\obj\Debug\AMS_DB_The_Duo.csproj.Core
 C:\Users\samee\Downloads\cat\AMS_DB_The_Duo\obj\Debug\AMS_DB_The_Duo.exe
 C:\Users\samee\Downloads\cat\AMS_DB_The_Duo\obj\Debug\AMS_DB_The_Duo.pdb
 C:\Users\samee\Downloads\cat\AMS_DB_The_Duo\obj\Debug\AMS_DB_The_Duo.login.resources
+C:\Users\AB Tennyson\Downloads\cat\AMS_DB_The_Duo\bin\Debug\AMS_DB_The_Duo.exe.config
+C:\Users\AB Tennyson\Downloads\cat\AMS_DB_The_Duo\bin\Debug\AMS_DB_The_Duo.exe
+C:\Users\AB Tennyson\Downloads\cat\AMS_DB_The_Duo\bin\Debug\AMS_DB_The_Duo.pdb
+C:\Users\AB Tennyson\Downloads\cat\AMS_DB_The_Duo\obj\Debug\AMS_DB_The_Duo.csproj.AssemblyReference.cache
+C:\Users\AB Tennyson\Downloads\cat\AMS_DB_The_Duo\obj\Debug\AMS_DB_The_Duo.csproj.SuggestedBindingRedirects.cache
+C:\Users\AB Tennyson\Downloads\cat\AMS_DB_The_Duo\obj\Debug\AMS_DB_The_Duo.Admin.resources
+C:\Users\AB Tennyson\Downloads\cat\AMS_DB_The_Duo\obj\Debug\AMS_DB_The_Duo.AdminCheckProfile.resources
+C:\Users\AB Tennyson\Downloads\cat\AMS_DB_The_Duo\obj\Debug\AMS_DB_The_Duo.AdminViewFeedback.resources
+C:\Users\AB Tennyson\Downloads\cat\AMS_DB_The_Duo\obj\Debug\AMS_DB_The_Duo.CustomerSupport.resources
+C:\Users\AB Tennyson\Downloads\cat\AMS_DB_The_Duo\obj\Debug\AMS_DB_The_Duo.FlightCrew.resources
+C:\Users\AB Tennyson\Downloads\cat\AMS_DB_The_Duo\obj\Debug\AMS_DB_The_Duo.login.resources
+C:\Users\AB Tennyson\Downloads\cat\AMS_DB_The_Duo\obj\Debug\AMS_DB_The_Duo.Passenger.resources
+C:\Users\AB Tennyson\Downloads\cat\AMS_DB_The_Duo\obj\Debug\AMS_DB_The_Duo.Pilot.resources
+C:\Users\AB Tennyson\Downloads\cat\AMS_DB_The_Duo\obj\Debug\AMS_DB_The_Duo.Properties.Resources.resources
+C:\Users\AB Tennyson\Downloads\cat\AMS_DB_The_Duo\obj\Debug\AMS_DB_The_Duo.SignUp.resources
+C:\Users\AB Tennyson\Downloads\cat\AMS_DB_The_Duo\obj\Debug\AMS_DB_The_Duo.csproj.GenerateResource.cache
+C:\Users\AB Tennyson\Downloads\cat\AMS_DB_The_Duo\obj\Debug\AMS_DB_The_Duo.csproj.CoreCompileInputs.cache
+C:\Users\AB Tennyson\Downloads\cat\AMS_DB_The_Duo\obj\Debug\AMS_DB_The_Duo.exe
+C:\Users\AB Tennyson\Downloads\cat\AMS_DB_The_Duo\obj\Debug\AMS_DB_The_Duo.pdb

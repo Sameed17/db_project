@@ -38,6 +38,10 @@ namespace AMS_DB_The_Duo
             this.label2 = new System.Windows.Forms.Label();
             this.btn_signup = new System.Windows.Forms.Button();
             this.btn_pasword = new System.Windows.Forms.Button();
+            this.pictureBox2 = new System.Windows.Forms.PictureBox();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // btn_login
@@ -107,8 +111,8 @@ namespace AMS_DB_The_Duo
             this.btn_signup.BackColor = System.Drawing.Color.Transparent;
             this.btn_signup.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btn_signup.FlatAppearance.BorderSize = 0;
-            this.btn_signup.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
             this.btn_signup.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.btn_signup.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
             this.btn_signup.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btn_signup.Font = new System.Drawing.Font("Georgia", 14.25F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_signup.ForeColor = System.Drawing.Color.LightGray;
@@ -125,8 +129,8 @@ namespace AMS_DB_The_Duo
             this.btn_pasword.BackColor = System.Drawing.Color.Transparent;
             this.btn_pasword.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btn_pasword.FlatAppearance.BorderSize = 0;
-            this.btn_pasword.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
             this.btn_pasword.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.btn_pasword.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
             this.btn_pasword.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btn_pasword.Font = new System.Drawing.Font("Georgia", 14.25F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_pasword.ForeColor = System.Drawing.Color.LightGray;
@@ -137,13 +141,37 @@ namespace AMS_DB_The_Duo
             this.btn_pasword.Text = "Forgot Password? Fukc off";
             this.btn_pasword.UseVisualStyleBackColor = false;
             // 
+            // pictureBox2
+            // 
+            this.pictureBox2.BackColor = System.Drawing.Color.Transparent;
+            this.pictureBox2.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("pictureBox2.BackgroundImage")));
+            this.pictureBox2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
+            this.pictureBox2.Location = new System.Drawing.Point(189, 244);
+            this.pictureBox2.Name = "pictureBox2";
+            this.pictureBox2.Size = new System.Drawing.Size(222, 236);
+            this.pictureBox2.TabIndex = 120;
+            this.pictureBox2.TabStop = false;
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.BackColor = System.Drawing.Color.Transparent;
+            this.pictureBox1.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("pictureBox1.BackgroundImage")));
+            this.pictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
+            this.pictureBox1.Location = new System.Drawing.Point(828, 244);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(222, 236);
+            this.pictureBox1.TabIndex = 121;
+            this.pictureBox1.TabStop = false;
+            // 
             // login
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
+            this.BackgroundImage = global::AMS_DB_The_Duo.Properties.Resources.Untitled_design;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(1264, 681);
+            this.Controls.Add(this.pictureBox1);
+            this.Controls.Add(this.pictureBox2);
             this.Controls.Add(this.btn_pasword);
             this.Controls.Add(this.btn_signup);
             this.Controls.Add(this.label2);
@@ -156,6 +184,8 @@ namespace AMS_DB_The_Duo
             this.Name = "login";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Login";
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -170,6 +200,8 @@ namespace AMS_DB_The_Duo
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Button btn_signup;
         private System.Windows.Forms.Button btn_pasword;
+        private System.Windows.Forms.PictureBox pictureBox2;
+        private System.Windows.Forms.PictureBox pictureBox1;
     }
 }
 
